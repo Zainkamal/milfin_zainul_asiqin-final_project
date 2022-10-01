@@ -34,3 +34,15 @@ body{
     font-family: 'Alkalami', serif;
     font-size: 16px;
 }
+main{
+    width: 100%;
+}
+main .action1{
+    font-family: 'Alkalami', serif;
+}
+main .action1 h1{
+    font-size: 26px;
+}
+main .action1 h2 {
+    font-size: 22px;
+}
