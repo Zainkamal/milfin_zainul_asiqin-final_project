@@ -55,7 +55,7 @@ main .action2 h1{
 }
 main .action2 .column{
     flex: 30%;
-    max-width: 25%;
+    max-width: 100%;
     padding: 0 4px;
     border: 1px solid black;
 }
